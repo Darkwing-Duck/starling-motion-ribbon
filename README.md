@@ -7,4 +7,4 @@ Starling Motion Ribbon is slowly fading out ribbon. It can change the:
   - the minimum length of the segment;
   - fading out time for each segment;
 
-Try the demo: 
+Try the demo: http://darkwingdev.ru/streak
