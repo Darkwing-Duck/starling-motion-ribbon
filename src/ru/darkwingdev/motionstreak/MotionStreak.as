@@ -41,7 +41,7 @@ package ru.darkwingdev.motionstreak
 
         public function MotionStreak()
         {
-            super();
+            //
         }
 
         //----------------------------------------------------------------------------------------------
