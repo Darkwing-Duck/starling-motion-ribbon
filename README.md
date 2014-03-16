@@ -1,2 +1,2 @@
-starling-motion-ribbon
+Starling Motion Ribbon
 ======================
