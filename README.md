@@ -13,3 +13,5 @@ The library contains 2 classes that is essentialy a wrappers around Ribbon class
  - Ribbon - static ribbon without fading.
  - MotionStreak - creates an effect like MotionStreak in Cocos2d framework. The Ribbon segments to more or less slowly fade out and disappear after you have drawn them. Texture is stretching the full ribbon length. You can see this effect in game Fruit Ninja.
  - MotionTrack - creates a similar effect, but the texture is repeating. It can be used to create an effect like tank tracks.
+
+Also you can use texture atlas as texture for the ribbon.
