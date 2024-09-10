@@ -14,6 +14,3 @@ The library contains 2 classes that is essentialy a wrappers around Ribbon class
  - MotionTrack - creates a similar effect, but the texture is repeating. It can be used to create an effect like tank tracks.
 
 You can use textures from atlas (SubTexture) as texture for ribbon as well as the separate textures(Texture).
-
-
-Try the demo: http://darkwingdev.ru/streak
